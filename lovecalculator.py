@@ -1,0 +1,25 @@
+print("welcome to the love ccalculator")
+name1 =str(input("what is your name? "))
+name2 =str(input("what is your name? "))
+combined_name = name1+name2
+print(combined_name .lower())
+t=combined_name .count("t")
+# print(t)
+r =combined_name .count("r")
+# print(r)
+u =combined_name .count("u")
+# print(u)
+E =combined_name .count("e")
+# print(E)
+truE =t+r+u+E
+l =combined_name .count("l")
+# print(l)
+o =combined_name .count("o")
+# print(o)
+v=combined_name .count("v")
+# print(v)/.
+e =combined_name .count("e")
+# print(e)
+love =l+o+v+e 
+love_score =str(truE)+str(love)
+print(love_score)
